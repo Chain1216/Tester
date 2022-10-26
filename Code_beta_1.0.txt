@@ -8,3 +8,11 @@ xxxxxx = CC;
 if (sksjasa != klwk)(
 do...
 )
+
+while(aaaaaa){
+ssss}
+
+122
+558
+
+7777
